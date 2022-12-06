@@ -1,1 +1,1 @@
-# -vtk-java-natives-demo
+# demo-vtk-java-natives
